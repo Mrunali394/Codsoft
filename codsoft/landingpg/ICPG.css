@@ -1,0 +1,227 @@
+.mainbox{
+   background-image: url(./logos/chocoice.jpg);
+   height: 100vh;
+   background-size: cover;
+   opacity: 1;
+}
+
+.firstsection{
+      margin-top: 50px;
+    
+    
+}
+
+.firstsection p{
+    margin-left: 30px;
+    margin-top: 40px;
+    font-family: cursive;
+    font-style: italic;
+    font-size:60px;
+    color: white;
+    line-height: 50px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.firstsection h1{
+    font-family:fantasy;
+    font-style: italic;
+    font-size: 100px;
+    color: white;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.firstsection button{
+    margin-left: 40px;
+    margin-top: 70px;
+    background-color:azure;
+    color: black;
+    font-size: 25px;
+    margin-right: 20px;
+    justify-content: center;
+    align-items: center;
+    border:solid black;
+    opacity: 0.7;
+    
+}
+.nav{
+    margin-left: 850px;
+}
+.nav a{
+    margin-top: 10px;
+    text-decoration: none;
+    margin-right: 30px;
+    color: white;
+    font-size: 17px;
+    opacity: 0.7;
+
+}
+
+.nav a:hover{
+    opacity: 1 ;
+}
+
+.firstsection button:hover{
+    opacity: 1;
+}
+
+.secondsection p{
+    color: black;
+    font-size:23px;
+    display: flex;
+    
+}
+
+.twosec{
+    display:flex;
+    height: 1000px;
+    background-color: rgb(255, 218, 185) ;
+}
+
+.rightdiv{
+    height:600px;
+    width: 50%;
+}
+
+.leftdiv{
+    height:500px;
+    width: 50%;
+}
+
+.card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 218, 185);
+}
+
+.rightdiv p{
+    color: brown;
+    font-family: fantasy;
+    margin-top: 0%;
+    margin-left: 10px;
+    margin-right: 350px;
+    font-size: 40px;
+}
+
+.card img{
+    height: 100px;
+    width: 150px;
+    margin-left: 60px;
+    justify-content:first baseline;
+    align-items: center;
+    margin-top: 0%;
+}
+
+.leftdiv h6{
+    font-size: 1.75rem;
+}
+
+.leftdiv .kulfi{
+    height: 150px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.leftdiv .cupicecream{
+    height: 180px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.leftdiv .sorbet{
+    height: 180px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.leftdiv .gelato{
+    height: 150px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.leftdiv .rolledicecream{
+    height: 170px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.leftdiv .softy{
+    height: 170px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.about{
+    height: 500px;
+
+}
+
+#aboutus{
+    margin-top: 0px;
+    height:600px;
+    background-color: rgb(255, 205, 162);;
+    justify-content: center;
+    align-items: center;
+}
+
+.about h3{
+    margin-left: 500px;
+    margin-top: 10px;
+}
+
+.about h4{
+    margin-left: 100px;
+    margin-top: 50px;
+    text-decoration: double underline;
+}
+
+.about p{
+    margin-left: 200px;
+    width: 65%;
+    font-size: large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#contactus{
+    margin-top: 10px;
+    height: 600px;
+    font-family:'Lucida Sans';
+    background-color:rgb(237, 184, 138); 
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.contact h3{
+    margin-left: 530px;
+    margin-top: 20px;
+}
+.contact p{
+    font-family: 'Lucida Sans';
+    font-style: normal;
+    font-size: large;
+    margin-top: 0px;
+}
+
+.contact h4{
+    font-size: larger;
+    margin-left: 490px;
+    margin-top: 50px;
+}
+
+.contact li{
+    font-family: 'Lucida Sans';
+    font-style: normal;
+    font-size: large;
+    margin-left: 500px;
+}
